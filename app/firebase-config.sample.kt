@@ -1,6 +1,6 @@
 package com.rankup.demo.config
 
-// 🔐 This is a mock Firebase config file. Real credentials are excluded.
+// This is a mock Firebase config file. Real credentials are excluded.
 
 object FirebaseConfig {
     const val firestoreBaseUrl = "https://rankup-sample.firebaseio.com"
