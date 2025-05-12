@@ -23,12 +23,24 @@ This is a **partial and sanitized version** of the RankUp MVP intended for inves
 
 -------------
 
-## Access
+## 🔐 Access
+
 This repository is **private** and contains partial code only.  
 The full RankUp source code is proprietary and not publicly available.
 
-Full code access available **upon request** for YC reviewers only.
+Selected portions of the full codebase can be shared upon request for investors and reviewers.
 
 -------------
+
+## 📸 UI Screenshots (Core MVP)
+
+- 🏠 Home: ![Home UI](assets/screenshots/home_ui.png)
+- 📋 Club List: ![Club List](assets/screenshots/club_list.png)
+- 🏆 Club Profile: ![Club Profile](assets/screenshots/club_profile.png)
+- 🤝 Send Match Request: ![Match Request](assets/screenshots/send_match_request.png)
+- 📨 Received Requests: ![Match Requests](assets/screenshots/match_requests_received.png)
+- 💬 Chat: ![Chat](assets/screenshots/chat_screen.png)
+- 🙋 Profile: ![Profile](assets/screenshots/profile_screen.png)
+
 
 © 2025 RankUp. All rights reserved.
