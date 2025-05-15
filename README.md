@@ -30,17 +30,6 @@ The full RankUp source code is proprietary and not publicly available.
 
 Selected portions of the full codebase can be shared upon request for investors and reviewers.
 
--------------
-
-## 📸 UI Screenshots (Core MVP)
-
-- 🏠 Home: ![Home UI]([assets/screenshots/home_ui.png](https://raw.githubusercontent.com/RankUpSport/rankup-mvp-demo/main/assets/screenshots/home_ui.png))
-- 📋 Club List: ![Club List](assets/club_list.png)
-- 🏆 Club Profile: ![Club Profile](assets/club_profile.png)
-- 🤝 Send Match Request: ![Match Request](assets/send_match_request.png)
-- 📨 Received Requests: ![Match Requests](assets/match_requests_received.png)
-- 💬 Chat: ![Chat](assets/chat_screen.png)
-- 🙋 Profile: ![Profile](assets/profile_screen.png)
 
 
 © 2025 RankUp. All rights reserved.
