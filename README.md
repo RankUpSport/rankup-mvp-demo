@@ -34,7 +34,7 @@ Selected portions of the full codebase can be shared upon request for investors 
 
 ## 📸 UI Screenshots (Core MVP)
 
-- 🏠 Home: ![Home UI](assets/screenshots/home_ui.png)
+- 🏠 Home: ![Home UI]([assets/screenshots/home_ui.png](https://raw.githubusercontent.com/RankUpSport/rankup-mvp-demo/main/assets/screenshots/home_ui.png))
 - 📋 Club List: ![Club List](assets/club_list.png)
 - 🏆 Club Profile: ![Club Profile](assets/club_profile.png)
 - 🤝 Send Match Request: ![Match Request](assets/send_match_request.png)
